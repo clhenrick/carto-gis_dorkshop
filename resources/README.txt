@@ -8,7 +8,7 @@ Geographic Information Systems (GIS), and open-source web-mapping. My intention 
 some basic areas within the disciplines and give you some hands on experience with tutorials.
 Depending on what we are able to cover and how the audience feels about the material this
 dorkshop may be the first in a series. My goal is to inform the audience how we as designers
-can have greater control over map design using open-source tools that are available to us.
+can have greater control over map design using Adobe Illustrator and some open-source tools.
 
 In this folder you will find some tutorial files for learning the pen tool in Adobe Illustrator.
 Knowing the Pen tool is key for creating, editing, and styling vectors in Illustrator,
@@ -19,11 +19,10 @@ Additionally there are files from the National Park Service containing public-do
 as well as a world locator map.
 
 In the images folder you will find a screen shot of Google Maps I will be using for the first tutorial to
-create a way finding map in Adobe Illustrator. 
+create a way finding map in Adobe Illustrator. Having basic knowledge of Adobe Illustrator is not a requirement
+but strongly suggested if you would like to follow along with the first tutorial in the dorkshop.
 
-Having basic knowledge of Adobe Illustrator is not a requirement but strongly suggested
-if you would like to follow along with the first tutorial in the dorkshop. If you'd like to
-participate in the GIS and web-mapping tutorials in the second half please install the following
+If you'd like to participate in the GIS and web-mapping tutorials in the second half please install the following
 software ***prior to*** the dorkshop:
 
 
