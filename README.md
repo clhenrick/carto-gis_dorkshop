@@ -1,4 +1,5 @@
 ## Cartography Dorkshop
+
 Parsons The New School for Design
 9/29/2013
 Chris Henrick
@@ -50,15 +51,15 @@ and on similar Shells for other linux based systems such as Ubuntu),
 
 Following the installation of QGIS copy and paste the following code into the Terminal App:
 
-  echo 'export PATH=/Library/Frameworks/GDAL.framework/Programs:$PATH' >> ~/.bash_profile source ~/.bash_profile
+    echo 'export PATH=/Library/Frameworks/GDAL.framework/Programs:$PATH' >> ~/.bash_profile source ~/.bash_profile
 
 Then double check that GDAL is in your environment PATH by running the command:
   
-  gdalinfo --version
+    gdalinfo --version
 
 You should get back something like:
 
-  GDAL 1.10.0, released 2013/04/24
+    GDAL 1.10.0, released 2013/04/24
 
 
 ### I plan on trying to not spend time helping people set up these tools during the dorkshop so 
