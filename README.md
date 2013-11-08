@@ -45,8 +45,9 @@ software ***prior to*** the dorkshop:
   -sign up for a free account online @
     http://mapbox.com
     
-### Additionally, if you'd like to try running GDAL on the command-line (I recommend having
-prior knowledge of working with the command line), it is available in the Terminal App (Mac OS X 
+### Additionally, if you'd like to try running GDAL on the command-line...
+
+(I recommend having prior knowledge of working with the command line), it is available in the Terminal App (Mac OS X 
 and on similar Shells for other linux based systems such as Ubuntu), 
 
 Following the installation of QGIS copy and paste the following code into the Terminal App:
